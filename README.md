@@ -18,4 +18,4 @@ If you want to contact me you can reach me at Youtube And Telegram.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-<h1>Designed and developed with ❤️ by Ahmed Rabiee.</h1>
+<h3>Designed and developed with ❤️ by Ahmed Rabiee.</h3>
